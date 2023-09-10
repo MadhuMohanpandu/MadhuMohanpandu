@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **AI**
 
-- 🌱 I’m currently learning **Django,MongoDB**
+- 🌱 I’m currently learning **Django**
 
 - 📫 How to reach me **papaiahmadhumohan@gmail.com**
 
